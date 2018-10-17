@@ -1,1 +1,1 @@
-# Papers which are officially published to a certain extent.
+# As it says on the tin, some published works.
